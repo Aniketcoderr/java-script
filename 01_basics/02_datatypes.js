@@ -19,6 +19,8 @@ let state=null
 objects
 
 */
+
+
 console.log(typeof IsLoggedIn)//will give boolean as answer
 console.log(typeof null)//will give object as answer
 console.log(typeof undefined)// will give undefinned as answer as undefined is itself is a dattype
